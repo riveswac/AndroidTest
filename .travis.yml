@@ -1,5 +1,6 @@
 language: android
 android:
   components:
+   - build-tools-24.0.1
    #SDK version
    - android-23
